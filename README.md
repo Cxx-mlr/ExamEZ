@@ -14,7 +14,7 @@ Asegúrate de cumplir con los siguientes requisitos antes de ejecutar la aplicac
 python -m pip install -U textual
 ```
 
-Para ejecutar la aplicación, dispones de dos opciones:
+### Para ejecutar la aplicación, dispones de dos opciones:
 
 Opción 1: Utilizando Python directamente
 ```

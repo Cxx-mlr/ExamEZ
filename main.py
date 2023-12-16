@@ -151,6 +151,7 @@ class ModalMessage(ModalScreen):
     ModalMessage Static {
         width: 50%;
         height: 50%;
+        max-height: 12;
         text-align: center;
         content-align: center middle;
         border: wide white;

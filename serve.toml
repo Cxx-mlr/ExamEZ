@@ -1,0 +1,2 @@
+[app.ExamEz]
+command = "python main.py"

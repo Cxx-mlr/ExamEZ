@@ -16,17 +16,38 @@ python -m pip install -U textual
 
 ### Para ejecutar la aplicación, dispones de dos opciones:
 
-Opción 1: Utilizando Python directamente
+*Opción 1: Utilizando Python directamente*
 ```
 python ./main.py
 ```
 
-Opción 2: Utilizando el Comando "textual"
+*Opción 2: Utilizando el Comando "textual"*
 ```
 textual run main.py
 ```
 
-### Preview
+*Opción Experimental: Utilizando el comando `textual-web`*
+
+Para explorar la opción experimental primero necesitas instalar [textual-web](https://github.com/Textualize/textual-web). Sigue estos pasos:
+
+Descarga textual-web con el siguiente comando:
+
+```
+python -m pip install -U textual-dev
+```
+
+Luego, para ejecutar la aplicación en la web, utiliza el siguiente comando:
+```
+textual-web --config serve.toml
+```
+
+Deberías ver algo similar a lo siguiente después de ejecutar el comando:
+
+![image](https://github.com/Cxx-mlr/ExamEZ/assets/37257545/85ebfe6e-4745-4797-9653-484a94b17a08)
+
+Haz clic en el enlace proporcionado para acceder a la aplicación.
+
+### Preview Textual Console
 
 ![image](https://github.com/Cxx-mlr/ExamEZ/assets/37257545/5c9c8bd8-ef87-44c0-80a1-880959294552)
 

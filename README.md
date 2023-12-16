@@ -25,3 +25,13 @@ Opción 2: Utilizando el Comando "textual"
 ```
 textual run main.py
 ```
+
+### Preview
+
+![image](https://github.com/Cxx-mlr/ExamEZ/assets/37257545/5c9c8bd8-ef87-44c0-80a1-880959294552)
+
+![image](https://github.com/Cxx-mlr/ExamEZ/assets/37257545/dd901d36-34fe-44c5-a56c-2bda9ada199d)
+
+![image](https://github.com/Cxx-mlr/ExamEZ/assets/37257545/c7f95484-d8b7-4a6d-bd0b-8708a65220f6)
+
+

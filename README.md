@@ -32,6 +32,7 @@ textual run main.py
 
 ![image](https://github.com/Cxx-mlr/ExamEZ/assets/37257545/dd901d36-34fe-44c5-a56c-2bda9ada199d)
 
-![image](https://github.com/Cxx-mlr/ExamEZ/assets/37257545/c7f95484-d8b7-4a6d-bd0b-8708a65220f6)
+![image](https://github.com/Cxx-mlr/ExamEZ/assets/37257545/36725cda-4707-41d1-8762-1735cf211f10)
+
 
 
